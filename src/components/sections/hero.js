@@ -54,12 +54,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Vishnuu Gopi.</h2>;
-  const three = <h3 className="big-heading">I hack things to secure them.</h3>;
+  const three = <h3 className="big-heading">Insert Cool Tagline Here.</h3>;
   const four = (
     <p>
-      I'm a Boston-based software engineer who specializes in building (and occasionally designing)
-      exceptional digital experiences. Currently, I'm an engineer at{' '}
-      <a href="https://upstatement.com/">Upstatement</a> focused on building accessible,
+      I'm a Plano-based security engineer who specializes in securing (and occasionally building)
+      exceptional experiences. Currently, I'm a intern at{' '}
+      <a href="https://lockheedmartin.com/">Lockheed Martin</a> focused on securing accessible,
       human-centered products.
     </p>
   );
