@@ -59,10 +59,10 @@ const Hero = () => {
   const three = <h3 className="big-heading">Insert Cool Tagline Here.</h3>;
   const four = (
     <p>
-      I'm a Plano-based security engineer who specializes in securing (and occasionally building)
-      exceptional experiences. Currently, I'm a intern at{' '}
-      <a href="https://lockheedmartin.com/">Lockheed Martin</a> focused on securing accessible,
-      human-centered products.
+      I'm a Plano-based high school student who is interested in cybersecurity CTFs and competitive
+      programming. Currently, I'm a intern at{' '}
+      <a href="https://lockheedmartin.com/">Lockheed Martin</a> focused on securing systems and
+      products.
     </p>
   );
   const five = (
