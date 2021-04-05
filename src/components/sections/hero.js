@@ -58,7 +58,9 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Vishnuu Gopi.</h2>;
-  const three = <h3 className="big-heading">Insert Cool Tagline Here.</h3>;
+  const three = (
+    <h3 className="big-heading">I learn how to make stuff so that I can break stuff.</h3>
+  );
   const four = (
     <p>
       I'm a Plano-based high school student who is interested in cybersecurity CTFs and competitive
