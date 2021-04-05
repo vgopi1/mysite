@@ -1,4 +1,6 @@
-//intro page
+//intro page Currently, I'm a Cyber Security intern at{' '}
+//     <a href="https://lockheedmartin.com/">Lockheed Martin</a> focused on securing systems and
+//     products.
 
 import React, { useState, useEffect } from 'react';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
@@ -60,9 +62,7 @@ const Hero = () => {
   const four = (
     <p>
       I'm a Plano-based high school student who is interested in cybersecurity CTFs and competitive
-      programming. Currently, I'm a intern at{' '}
-      <a href="https://lockheedmartin.com/">Lockheed Martin</a> focused on securing systems and
-      products.
+      programming.
     </p>
   );
   const five = (
